@@ -21,7 +21,7 @@ Installing
 ==========
 github:
 ```bash
-clone https://github.com/LiorCi/lior_matcher.git
+git clone https://github.com/LiorCi/lior_matcher.git
 ```
 install requirments on your venv: 
 ```bash
@@ -95,7 +95,7 @@ You can create skills, candidates and jobs using flask admin on: http://127.0.0.
     1. Number of likes \
     2. Number of dislikes \
     3. Number of notes per candidate \
-    4. Number of times a candidate was returned as ״matched״ for a job \
+    4. Number of times a candidate was returned as ״matched״ for a job
 
 ```http://127.0.0.1:5000/jobs/<job_id>/statistics ``` [GET]
 ```json
