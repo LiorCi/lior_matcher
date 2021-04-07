@@ -4,4 +4,4 @@ flask-script==2.0.6
 sqlalchemy-utils==0.36.1
 flask-admin==1.5.5
 mysqlclient==1.4.6
-webargs==5.5.1
+webargs==5.5.3
